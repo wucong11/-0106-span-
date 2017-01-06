@@ -4,10 +4,17 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>了不起的盖茨比</title>
 <style>
-span{
-color:blue; 
+span{color:blue;
+    
 }
 </style>
+
+<!--定义span中设置颜色
+<style>
+span{color:yanse;}
+</style>
+-->
+
 </head>
 <body>
     <p>1922年的春天，一个想要成名名叫尼克•卡拉威（托比•马奎尔Tobey Maguire 饰）的作家，离开了美国中西部，来到了纽约。那是一个道德感渐失，爵士乐流行，走私为王，股票飞涨的时代。为了追寻他的<span>美国梦</span>，他搬入纽约附近一海湾居住。</p>
